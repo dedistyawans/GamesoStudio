@@ -137,45 +137,53 @@
     "shopee_aff": "null"
   },
 
-  "base_url" : "https://labigsharim.me/test/",
-  
   "category" : [
     {
       "category_id": 1,
       "category_name": "Category 1",
       "category_color": "#42f5d4",
-      "category_image": "tray_generated_Category_1.png"
+      "category_image": "tray_generated_Category_1.png",
+      "base_url" : "https://labigsharim.me/test/category/"
     },
     {
       "category_id": 2,
       "category_name": "Category 2",
       "category_color": "#42f5d4",
-      "category_image": "tray_generated_Category_2.png"
+      "category_image": "tray_generated_Category_2.png",
+      "base_url" : "https://labigsharim.me/test/category/"
     },
     {
       "category_id": 3,
       "category_name": "Category 3",
       "category_color": "#42f5d4",
-      "category_image": "tray_generated_Category_3.png"
+      "category_image": "tray_generated_Category_3.png",
+      "base_url" : "https://labigsharim.me/test/category/"
     },
     {
       "category_id": 4,
       "category_name": "Category 4",
       "category_color": "#42f5d4",
-      "category_image": "tray_generated_Category_4.png"
+      "category_image": "tray_generated_Category_4.png",
+      "base_url" : "https://labigsharim.me/test/category/"
     },
     {
       "category_id": 5,
       "category_name": "Category 5",
       "category_color": "#42f5d4",
-      "category_image": "tray_Category_5.png"
+      "category_image": "tray_Category_5.png",
+      "base_url" : "https://labigsharim.me/test/category/"
     },
     {
       "category_id": 6,
       "category_name": "Category 6",
       "category_color": "#42f5d4",
-      "category_image": "tray_Category_6.png"
+      "category_image": "tray_Category_6.png",
+      "base_url" : "https://labigsharim.me/test/category/"
     }
+  ],
+
+  "sticker_json_url" : [
+    "https://raw.githubusercontent.com/dedistyawans/GamesoStudio/main/com.gamesostudio.stickertest.json"
   ],
 
   "sticker" : {
@@ -183,6 +191,7 @@
     "ios_app_store_link": "",
     "sticker_packs": [
       {
+        "base_url" : "file:///android_asset/content/",
         "identifier": "Sticker_Kategori_Offline",
         "category_id": 99881,
         "name": "Sticker Kategori",
@@ -322,6 +331,7 @@
         ]
       },
       {
+        "base_url" : "https://labigsharim.me/test/",
         "identifier": "Sticker_Kategori_1_Category_1",
         "category_id": 1,
         "name": "Sticker Kategori 1",
