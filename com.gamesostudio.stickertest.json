@@ -137,6 +137,8 @@
     "shopee_aff": "null"
   },
 
+  "base_url" : "https://labigsharim.me/test/",
+  
   "category" : [
     {
       "category_id": 1,
