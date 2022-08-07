@@ -139,7 +139,7 @@
 
   "app_name" : "Sticker Lucu",
   "app_icon" : "https://labigsharim.me/test/icon.png",
-  "category_type" : 3,
+  "category_type" : 0,
 
   "category" : [
     {
