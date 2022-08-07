@@ -137,7 +137,18 @@
     "shopee_aff": "null"
   },
 
+  "app_name" : "Sticker Lucu",
+  "app_icon" : "https://labigsharim.me/test/icon.png",
+  "category_type" : 3,
+
   "category" : [
+    {
+      "category_id": 0,
+      "category_name": "Semua Sticker Disini",
+      "category_color": "#42f5d4",
+      "category_image": "tray_generated_Category_1.png",
+      "base_url" : "https://labigsharim.me/test/category/"
+    },
     {
       "category_id": 1,
       "category_name": "Category 1",
@@ -183,6 +194,7 @@
   ],
 
   "sticker_json_url" : [
+    "https://raw.githubusercontent.com/dedistyawans/GamesoStudio/main/com.gamesostudio.stickertest.json",
     "https://raw.githubusercontent.com/dedistyawans/GamesoStudio/main/com.gamesostudio.stickertest.json"
   ],
 
@@ -192,6 +204,7 @@
     "sticker_packs": [
       {
         "base_url" : "file:///android_asset/content/",
+        "base_url_online" : "https://labigsharim.me/test/",
         "identifier": "Sticker_Kategori_Offline",
         "category_id": 99881,
         "name": "Sticker Kategori",
