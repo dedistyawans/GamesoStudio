@@ -152,6 +152,7 @@
   "show_more_with_app_name" : false,
   "more_sticker" : [
     {"json":"https://raw.githubusercontent.com/dedistyawans/GamesoStudio/main/com.gamesostudio.cuteduckwastickeranimated.json"},
+    {"json":"https://raw.githubusercontent.com/dedistyawans/GamesoStudio/main/com.gamesostudio.bubududuanimatedwasticker.json"}
   ],
 
   "category_mode" : 0,
