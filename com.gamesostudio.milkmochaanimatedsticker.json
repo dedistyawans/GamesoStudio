@@ -155,7 +155,7 @@
     {"json":"https://raw.githubusercontent.com/dedistyawans/GamesoStudio/main/com.gamesostudio.bubududuanimatedwasticker.json"}
   ],
 
-  "category_mode" : 0,
+  "category_mode" : -1,
   "category" : [
   {
     "category_id": 0,
