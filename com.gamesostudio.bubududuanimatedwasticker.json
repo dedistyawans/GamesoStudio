@@ -157,7 +157,7 @@
 
   ],
 
-  "category_mode" : 0,
+  "category_mode" : -1,
   "category" : [
   {
     "category_id": 0,
