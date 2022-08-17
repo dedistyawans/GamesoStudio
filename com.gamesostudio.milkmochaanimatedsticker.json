@@ -149,11 +149,13 @@
     "shopee_aff": "null"
   },
 
+   "title" : "Milk Mocha Animated",
+  
   "show_more_all_auto": true,
   "show_more_with_app_name" : false,
   "more_sticker" : [
-    {"json":"https://raw.githubusercontent.com/dedistyawans/GamesoStudio/main/com.gamesostudio.cuteduckwastickeranimated.json"},
-    {"json":"https://raw.githubusercontent.com/dedistyawans/GamesoStudio/main/com.gamesostudio.bubududuanimatedwasticker.json"}
+   "https://raw.githubusercontent.com/dedistyawans/GamesoStudio/main/com.gamesostudio.cuteduckwastickeranimated.json"
+   "https://raw.githubusercontent.com/dedistyawans/GamesoStudio/main/com.gamesostudio.bubududuanimatedwasticker.json"
   ],
 
   "category_mode" : -1,
