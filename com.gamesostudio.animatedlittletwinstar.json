@@ -130,10 +130,10 @@
     "max_inter_on": true,
     "max_must_live_playstore": true,
     
-    "kemungkinan_startapp": 1,
+    "kemungkinan_startapp": 0,
     "minimum_time_startapp": 0,
     "interval_startapp": 5,
-    "startapp_id": "207912542",
+    "startapp_id": "-",
     "startapp_init_wait": true,
     "startapp_banner_on": true,
     "startapp_detail_banner_on": true,
